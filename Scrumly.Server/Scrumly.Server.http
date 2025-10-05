@@ -1,0 +1,6 @@
+@Scrumly.Server_HostAddress = http://localhost:5097
+
+GET {{Scrumly.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
