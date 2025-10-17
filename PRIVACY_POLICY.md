@@ -1,6 +1,5 @@
-## ScrumPoker: Privacy Policy
-
-ScrumPoker is an Android application which is developed by Jákup Viljam Dam. This application is quite similar to others out there that cover SCRUM and estimations of workflows.
+## Scrumly: Privacy Policy
+Scrumly is cross platform application which is developed by Jákup Viljam Dam. This application is quite similar to others out there that cover SCRUM and estimations of workflows.
 
 ### Data collection
 The application does not gather any sensitive data and there are no plans for it to ever start doing so.
