@@ -1,8 +1,7 @@
 import '../../domain/entities/todo.dart';
 
 class TodoModel extends Todo {
-  TodoModel({required int id, required String title, bool completed = false})
-      : super(id: id, title: title, completed: completed);
+  TodoModel({required super.id, required super.title, super.completed});
 
   factory TodoModel.fromJson(Map<String, dynamic> json) {
     return TodoModel(
